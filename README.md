@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **kubernetes and django**
 
-- 📫 How to reach me **diogo.m.pinto@gmail.com**
+- 📫 How to reach me **diogo.martinho.pinto@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
